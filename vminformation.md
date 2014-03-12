@@ -1,4 +1,4 @@
-linux download link: [https://sw.cs.wwu.edu/~siemenr/ccdc/ubuntu_server.vdi](https://sw.cs.wwu.edu/~siemenr/ccdc/ubuntu_server.vdi)
+linux download link: [https://sw.cs.wwu.edu/~siemenr/ccdc/ubuntu_server.vdi]()
 >username: ccdcscrub
 
 >password: rmrfuw
